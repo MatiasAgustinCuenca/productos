@@ -61,13 +61,13 @@
 
 ## Estructura de archivos
 productos/
-├── index.js
-├── package.json
-├── package-lock.json
-├── models/
-│ └── Producto.js
-└── routes/
-└── productoRoutes.js
+#├── index.js
+#├── package.json
+#├── package-lock.json
+#├── models/
+#│ └── Producto.js
+#└── routes/
+#└── productoRoutes.js
 
 ## Nota adicional
 La ruta **GET /producto** es completamente pública, de modo que cualquier usuario puede consultarla sin autenticación
